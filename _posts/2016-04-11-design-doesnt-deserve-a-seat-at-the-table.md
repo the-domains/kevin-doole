@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://schloss.quora.com/Design-doesnt-deserve-a-seat-at-the-tab
 inLanguage: null
 starred: false
 keywords: []
-description: 'Jon Schlossberg on the rising profile of design, and what it really means to have a "seat at the table" is the startup world.'
-datePublished: '2016-04-11T23:05:39.653Z'
-dateModified: '2016-04-11T23:05:37.952Z'
+description: 'Jon Schlossberg on the rising profile of design, and what it really means to have a "seat at the table" in the startup world.'
+datePublished: '2016-04-11T23:09:38.515Z'
+dateModified: '2016-04-11T23:09:28.911Z'
 title: "Design doesn't deserve a seat at the table"
 author: []
 authors: []
@@ -22,4 +22,4 @@ published: true
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3189d8fc-10b9-4a30-80e5-6b5eeb97f0b0.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ff68fe3-3447-4cca-bff7-ec83417f1338.jpg)
