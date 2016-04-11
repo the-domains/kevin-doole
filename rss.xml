@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Stuff about making things for the web]]></title>
+        <description><![CDATA[Stuff about making things for the web]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Apr 2016 03:50:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[User Stories ]]></title>
+            <description><![CDATA[<article><h1>User Stories </h1><h2>Guidelines to creating high-quality user stories </h2><p>Here are a few comments that emerged from notes I took at Amir Barylko’s recent presentation, User Stories Deep Dive. 
+</p></article>]]></description>
+            <link>undefineduser-stories/index.html</link>
+            <guid isPermaLink="false">116cec5d-754e-43d6-8e6e-14c3365fa803</guid>
+            <pubDate>Mon, 11 Apr 2016 03:50:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
