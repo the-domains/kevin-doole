@@ -3,36 +3,23 @@ inFeed: true
 hasPage: false
 inNav: false
 isBasedOnUrl: 'https://schloss.quora.com/Design-doesnt-deserve-a-seat-at-the-table'
-inLanguage: en
+inLanguage: null
 starred: false
-keywords:
-  - value
-  - design
-  - startup
-  - create
-  - table
-  - perceived
-  - business
-  - market
-  - real
-  - biomedical
-description: "I don't normally read internet design stuff. It tends to be boring and tedious and written like an 8th grade term paper and frankly I'd rather read about the new Jaguar F-type. Have you seen that thing? It's like the classic E-type but with all the modern accoutrements."
-datePublished: '2016-04-11T23:01:18.114Z'
-dateModified: '2016-04-11T23:00:00.700Z'
-author: []
-related: []
-app_links: []
+keywords: []
+description: 'Jon Schlossberg on the rising profile of design, and what it really means to have a "seat at the table" is the startup world.'
+datePublished: '2016-04-11T23:05:39.653Z'
+dateModified: '2016-04-11T23:05:37.952Z'
 title: "Design doesn't deserve a seat at the table"
-sourcePath: _posts/2016-04-11-design-doesnt-deserve-a-seat-at-the-table.md
-published: true
+author: []
 authors: []
 publisher:
-  name: Quora
-  domain: schloss.quora.com
-  url: 'https://schloss.quora.com'
-  favicon: 'https://schloss.quora.com/favicon.ico'
-_context: 'http://schema.org'
+  name: null
+  domain: null
+  url: null
+  favicon: null
+sourcePath: _posts/2016-04-11-design-doesnt-deserve-a-seat-at-the-table.md
+published: true
 _type: MediaObject
 
 ---
-![Jon Schlossberg on the rising profile of design, and what it really means to have a "seat at the table" is the startup world.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc1c6e657334c6793c8539e50b7a6233ed22cf5f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3189d8fc-10b9-4a30-80e5-6b5eeb97f0b0.jpg)
