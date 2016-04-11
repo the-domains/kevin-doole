@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "These days I spend the vast majority of my time writing the code that makes websites work. Product people work with designers, then hand off user stories to my team. We then pull details out of the user stories and teach computers how to make websites out of them.\_"
-datePublished: '2016-04-11T03:54:28.371Z'
-dateModified: '2016-04-11T03:54:17.924Z'
+datePublished: '2016-04-11T05:38:33.016Z'
+dateModified: '2016-04-11T03:55:20.066Z'
 title: Introduction
 author: []
 sourcePath: _posts/2016-04-11-introduction.md
