@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Here are a few comments that emerged from notes I took at Amir Barylko’s recent presentation, User Stories Deep Dive.\_\n"
-datePublished: '2016-04-11T05:42:24.757Z'
-dateModified: '2016-04-11T05:41:14.423Z'
+datePublished: '2016-04-11T06:00:03.956Z'
+dateModified: '2016-04-11T05:59:19.658Z'
 title: "User Stories\_"
 author: []
 sourcePath: _posts/2016-04-11-user-stories.md
