@@ -5,24 +5,25 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Here are a few comments that emerged from notes I took at Amir Barylko’s recent presentation, *[User Stories Deep Dive](http://www.meetup.com/agilewpg/events/223767341/)*.\_\n"
-datePublished: '2016-04-11T03:50:58.147Z'
-dateModified: '2016-04-11T03:50:27.295Z'
+description: "Here are a few comments that emerged from notes I took at Amir Barylko’s recent presentation, User Stories Deep Dive.\_\n"
+datePublished: '2016-04-11T05:42:24.757Z'
+dateModified: '2016-04-11T05:41:14.423Z'
 title: "User Stories\_"
 author: []
+sourcePath: _posts/2016-04-11-user-stories.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-11-user-stories.md
-published: true
 url: user-stories/index.html
 _type: Article
 
 ---
 Here are a few comments that emerged from notes I took at Amir Barylko's recent presentation, _[User Stories Deep Dive][0]_. 
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e1fbd6c-f060-49a5-a7db-f7c6ab745d55.jpg)
 
 # User Stories 
 
