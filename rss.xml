@@ -4,8 +4,15 @@
         <description><![CDATA[Kevin Doole]]></description>
         <link>https://thegrid.ai/kevin-doole/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 02:29:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 06:07:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kevin-doole/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Create fast value by slicing and dicing reporting user stories]]></title>
+            <description><![CDATA[<article><h1>Create fast value by slicing and dicing reporting user stories</h1><p>Funny to read Mike Cohn's article, Advice on How to Split Reporting User Stories, now, after flying solo on a vast reporting project for slightly too long.</p></article>]]></description>
+            <link>https://thegrid.ai/kevin-doole/create-fast-value-by-slicing-and-dicing-reporting-user-stori/index.html</link>
+            <guid isPermaLink="false">4cfb6fd0-5fef-47e5-a5ba-f729dc7cf16a</guid>
+            <pubDate>Tue, 12 Apr 2016 06:07:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Using scenarios to improve user story quality]]></title>
             <description><![CDATA[<article><h1>Using scenarios to improve user story quality</h1><h2>Guidelines to creating high-quality user stories </h2><p>Here are a few comments that emerged from notes I took at Amir Barylko’s recent presentation, User Stories Deep Dive. </p></article>]]></description>
