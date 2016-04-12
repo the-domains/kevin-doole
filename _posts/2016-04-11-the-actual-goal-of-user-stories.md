@@ -6,25 +6,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Here are a few comments that emerged from notes I took at Amir Barylko’s recent presentation,\_User Stories Deep Dive.\_"
-datePublished: '2016-04-11T22:43:54.662Z'
-dateModified: '2016-04-11T22:43:40.048Z'
-title: "The actual goal of user Stories\_"
+datePublished: '2016-04-12T02:23:47.892Z'
+dateModified: '2016-04-12T02:22:49.880Z'
+title: "The goal of user stories\_"
 author: []
+sourcePath: _posts/2016-04-11-the-actual-goal-of-user-stories.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-11-the-actual-goal-of-user-stories.md
-published: true
 url: the-actual-goal-of-user-stories/index.html
 _type: Article
 
 ---
 Here are a few comments that emerged from notes I took at Amir Barylko's recent presentation, _[User Stories Deep Dive][0]_. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f70e5528-f20b-4014-b660-b71fb50a2b93.jpg)
 
-# The actual goal of user Stories 
+# The goal of user stories 
 
 The work that comes out of user stories has a much greater chance of failing to achieve its goals when stories have poor quality. 
 
