@@ -4,8 +4,15 @@
         <description><![CDATA[Kevin Doole]]></description>
         <link>https://thegrid.ai/kevin-doole/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 06:25:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 06:25:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kevin-doole/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Create fast value by slicing and dicing reporting user stories]]></title>
+            <description><![CDATA[<article><h1>Create fast value by slicing and dicing reporting user stories</h1><p>Splitting user stories is a way to shorten the feedback cycle while you work on a product. When you work on building reports, you're improving the information that the product team has available to it — in other words, you're improving the quality of feedback. So, shortening the feedback cycle of reporting user stories by splitting them up is an effective way to quickly boost the value that your team can create.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/baa6083a-e332-4e7f-a56e-5af8c428acf4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/kevin-doole/create-fast-value-by-slicing-and-dicing-reporting-user-stori/index.html</link>
+            <guid isPermaLink="false">3ca9c288-ab76-4020-90d6-17f39daae179</guid>
+            <pubDate>Tue, 12 Apr 2016 06:25:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Using scenarios to improve user story quality]]></title>
             <description><![CDATA[<article><h1>Using scenarios to improve user story quality</h1><h2>Guidelines to creating high-quality user stories </h2><p>Here are a few comments that emerged from notes I took at Amir Barylko’s recent presentation, User Stories Deep Dive. </p></article>]]></description>
