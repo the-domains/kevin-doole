@@ -1,7 +1,7 @@
 name: Kevin Doole
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.57833
+layout_spectrum: 1
+typography_spectrum: 1
 title: Kevin Doole
 collections:
   - index:
@@ -34,8 +34,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.4964158
-  lightness: 0.8125
+  brandStrength: 1
+  lightness: 1
   saturation: 0.625448
-  rhythmicContrast: 0.702509
+  rhythmicContrast: 1
 purpose: []
