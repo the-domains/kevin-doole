@@ -1,5 +1,8 @@
+name: Kevin Doole
+favicon: null
+layout_spectrum: 0.25553
+typography_spectrum: 0.57833
 title: Kevin Doole
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.625448
-  brandStrength: 0.4964158
-  lightness: 0.8125
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+  brandStrength: 0.4964158
+  lightness: 0.8125
+  saturation: 0.625448
   rhythmicContrast: 0.702509
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Kevin Doole
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.5412186
-layout_spectrum: 0.25553
+purpose: []
