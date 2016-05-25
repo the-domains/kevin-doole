@@ -4,8 +4,15 @@
         <description><![CDATA[Kevin Doole]]></description>
         <link>https://thegrid.ai/kevin-doole/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 00:53:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2016 03:57:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kevin-doole/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Building and shipping functional CSS]]></title>
+            <description><![CDATA[<article><h1>Building and shipping functional CSS</h1><p>Some months ago, I took on the process of refactoring the distributed CSS library we use to build our products' UI at TrialReach. The result of this refactoring was pretty impressive - for example, the library's file size dropped from an already-lean 19kb down to a very respectable 9.2kb (file sizes quoted minified and gzip-compressed).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/711b27ad0fad7cd3fd6024a8173df7ec04733910.jpg"></article>]]></description>
+            <link>https://blog.colepeters.com/building-and-shipping-functional-css/</link>
+            <guid isPermaLink="false">57bcdae4-6cc8-41a4-9c33-549fb698021e</guid>
+            <pubDate>Wed, 25 May 2016 03:56:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Designing Inward * Cap Watkins]]></title>
             <description><![CDATA[<article><h1>Designing Inward * Cap Watkins</h1><p>A little over a year into my job at Etsy, we had made a lot of changes to the design team and how we operated. We'd hired a bunch of amazing product designers. We had weekly, round-robin design critiques with the entire team and had instituted...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/55adfb06517482da6b5c2b25eecf5504e474b730.jpg"></article>]]></description>
